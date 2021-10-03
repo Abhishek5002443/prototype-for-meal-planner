@@ -13,4 +13,9 @@ Current features that this project can provide are:
 Client-side or user interface:
 
 Currently a flask based light weight web application is used for protyping. 
-("If interested you can run flask application and 
+Also a sample program file is provided that can be executed to see expected results.
+
+As this project is in its initial stages so some features might not be available as of
+now but it will be added soon as we are working actively on this project.
+
+Suggestions and contributions are highly welcomed!!
